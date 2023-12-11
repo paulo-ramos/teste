@@ -1,1 +1,14 @@
 README.md  teste1234567890.txt	teste3.txt  teste4.txt	teste5.txt  teste6.txt
+total 13
+drwxr-xr-x 1 paulo 197609   0 dez 10 22:43 ./
+drwxr-xr-x 1 paulo 197609   0 dez 10 19:35 ../
+drwxr-xr-x 1 paulo 197609   0 dez 10 22:43 .git/
+drwxr-xr-x 1 paulo 197609   0 dez 10 19:35 .vs/
+-rw-r--r-- 1 paulo 197609  30 dez 10 19:35 README.md
+-rw-r--r-- 1 paulo 197609   0 dez 10 19:35 teste1234567890.txt
+-rw-r--r-- 1 paulo 197609   0 dez 10 19:35 teste3.txt
+-rw-r--r-- 1 paulo 197609   0 dez 10 19:35 teste4.txt
+-rw-r--r-- 1 paulo 197609  54 dez 10 19:36 teste5.txt
+-rw-r--r-- 1 paulo 197609  86 dez 10 19:41 teste6.txt
+-rw-r--r-- 1 paulo 197609  77 dez 10 20:04 teste7.txt
+-rw-r--r-- 1 paulo 197609 648 dez 10 22:43 teste8.doc
