@@ -1,0 +1,13 @@
+total 32
+drwxr-xr-x 4 paulo paulo 4096 Dec 10 22:40 .
+drwxr-xr-x 3 paulo paulo 4096 Dec 10 22:40 ..
+drwxr-xr-x 8 paulo paulo 4096 Dec 10 22:40 .git
+drwxr-xr-x 3 paulo paulo 4096 Dec 10 22:40 .vs
+-rw-r--r-- 1 paulo paulo   30 Dec 10 22:40 README.md
+-rw-r--r-- 1 paulo paulo    0 Dec 10 22:40 teste1234567890.txt
+-rw-r--r-- 1 paulo paulo    0 Dec 10 22:40 teste3.txt
+-rw-r--r-- 1 paulo paulo    0 Dec 10 22:40 teste4.txt
+-rw-r--r-- 1 paulo paulo   54 Dec 10 22:40 teste5.txt
+-rw-r--r-- 1 paulo paulo   85 Dec 10 22:40 teste6.txt
+-rw-r--r-- 1 paulo paulo   77 Dec 10 22:40 teste7.txt
+-rw-r--r-- 1 paulo paulo    0 Dec 10 22:40 teste8.doc
