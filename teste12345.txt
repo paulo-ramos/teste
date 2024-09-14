@@ -1,0 +1,15 @@
+
+        Directory: C:\Users\paulo\dev\teste
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d----        13/09/2024     23:28                  .vs
+-a---        13/09/2024     23:28           8433   .gitignore
+-a---        13/09/2024     23:28             30 󰪷  README.md
+-a---        13/09/2024     23:30              0   teste
+-a---        13/09/2024     23:28              0 󰈙  teste123.txt
+-a---        13/09/2024     23:28              0 󰈙  teste1234.txt
+-a---        13/09/2024     23:30              0 󰈙  teste12345.txt
+-a---        13/09/2024     23:28              0   teste1235
+
